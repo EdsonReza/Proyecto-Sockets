@@ -12,4 +12,6 @@ Para compilar el programa se debe ejecutar el siguiente comando:
 bash build.sh
 ```
 
+La compilacion requiere de CMake 3.8+ y GCC.
+
 El cual compilará el programa y creará los ejecutables `Servidor` y `Cliente`, en la carpeta `build/bin`.

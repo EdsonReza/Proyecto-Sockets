@@ -4,7 +4,7 @@ project(Terremotos)
 
 set(CMAKE_C_STANDARD 17)
 
-SET(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} --std=c17")
+SET(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} --std=c99")
 
 set(EXECUTABLE_OUTPUT_PATH "bin")
 
